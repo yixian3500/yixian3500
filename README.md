@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yixian3500
-- 👀 I’m interested in Python , Web developing
-- 🌱 I’m currently learning coding with Python
+- 👀 I’m interested in Python , emacs
 - 📫 please feel free to contact me
 
 <!---
